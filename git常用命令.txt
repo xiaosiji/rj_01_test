@@ -5,7 +5,3 @@ git pull--获取服务器中最新文件
 git commit -m "注释"--提交到本地仓库
 git push--提交到远程仓库
 git reset HEAD <filename>
-
- <allowed-methods>regex:.*</allowed-methods>
-strict-method-invocation="false"
-
